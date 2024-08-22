@@ -97,7 +97,7 @@ header .menu a {
   height: auto;
   margin: 10px 0;
 }
-.services.tariffs {
+.tariffs {
   padding: 220px 0;
 }
 footer {
@@ -280,7 +280,7 @@ nav ul li:hover a{
 .navbar h1 {
   font-size: 18px;
 }
-  .services.tariffs {
+  .tariffs {
     padding: 40px 0;
   }
 }
