@@ -75,7 +75,8 @@ header .menu a {
 }
 .card img {
   max-width: 100%;
-  height: auto;
+  height: 175px;
+  object-fit: cover;
 }
 .card .btn {
   background-color: #4be46e;
